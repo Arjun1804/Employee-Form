@@ -1,0 +1,26 @@
+.date{
+
+    padding-left: 10px;
+    tab-size: 0cqmin;
+}
+.content{
+    padding-top: 10px;
+}
+.row{
+
+    display: flex;
+    gap: 10px;
+    
+    mat-form-field {
+        padding-left: 20px;
+        padding-right: 10px;
+        width : 100;
+
+    }
+}
+.action{
+    padding: 0px, 25px, 20px;
+    button{
+        flex: 1;
+    }
+}
